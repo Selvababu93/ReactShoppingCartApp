@@ -1,0 +1,8 @@
+install tailwindcss
+
+install redux toolkit
+ npm install @reduxjs/toolkit react-redux react-icons react-router-dom react-loader-spinner
+
+ if facing react version issue issue => npm install react@18 react-dom@18
+
+ 
